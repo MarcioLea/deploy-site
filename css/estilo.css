@@ -1,0 +1,45 @@
+@import url(../node_modules/bootstrap/dist/css/bootstrap.min.css);
+header {
+    background-color: #9B046F;
+}
+
+@media (max-width: 575.98px){
+   
+    .nav-item {
+        text-align: center;
+        font-size: 24px; 
+    }
+}
+
+.Container {
+    padding-top: 200px;
+    background: url(/imagens/beauty-salon-3277314_1920.jpg);
+    height: 75vh;
+    background-size: cover;
+    background-position-x: center;
+    background-attachment: fixed;
+}
+
+.lead {
+    color: #fff;
+}
+
+footer {
+    padding-top: 10px;
+    background-color: #9B046F;
+    height: 18vh;
+}
+
+a {
+    color: #fff;
+}
+
+a:hover {
+    color: #fff;
+}
+a::before {
+    color: #fff;
+}
+a::after {
+    color: #fff;
+}
