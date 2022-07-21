@@ -12,7 +12,7 @@ header {
 
 .Container {
     padding-top: 200px;
-    background: url(/imagens/beauty-salon-3277314_1920.jpg);
+    background: url(/imagens/capa.jpg);
     height: 75vh;
     background-size: cover;
     background-position-x: center;
@@ -41,4 +41,8 @@ a::before {
 }
 a::after {
     color: #fff;
+}
+
+.row {
+    padding-top: 20px;
 }
